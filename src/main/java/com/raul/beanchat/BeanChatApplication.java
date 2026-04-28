@@ -9,5 +9,4 @@ public class BeanChatApplication {
     static void main(String[] args) {
         SpringApplication.run(BeanChatApplication.class, args);
     }
-
 }
